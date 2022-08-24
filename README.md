@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rawquesh" target="blank"><img src="https://img.shields.io/twitter/follow/rawquesh?logo=twitter&style=for-the-badge" alt="rawquesh" /></a> </p>
 
-- 🔭 My recent open-source Flutter App [MemeBaaz](https://play.google.com/store/apps/details?id=com.memebaaz.MemeBaaz) [Repo](https://github.com/rawquesh/memebaaz)
+- 🔭 My recent open-source Flutter App [MemeBaaz](https://play.google.com/store/apps/details?id=com.memebaaz.MemeBaaz) || [Repo](https://github.com/rawquesh/memebaaz)
 
 - 🌱 I’m currently learning **NextJS, Tailwind CSS etc**
 
