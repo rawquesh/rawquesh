@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, ReactJS, Dart, JavaScript, Wordpress/Woocommerce, NodeJS**
 
-- 📫 How to reach me **rakeshbishnoi4577@gmail.com**
+- 📫 How to reach me **rakesh@bluetouch.dev**
 
 - 📄 My CV [https://rawquesh.github.io/img/cv.pdf](https://rawquesh.github.io/img/cv.pdf)
 
