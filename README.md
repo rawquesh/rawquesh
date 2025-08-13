@@ -24,13 +24,13 @@
 
 ---
 
-### 📊 My Upwork Snapshot
+### 📊 My Freelance Snapshot
 As a **Top-Rated** Freelancer and Agency Owner, I've built a strong reputation for delivering results.
 
 - 🏆 **$100k+** Total Earnings
 - 📈 **100** Total Jobs Completed
 - ⏰ **2,500+** Hours Logged
-- 🤝 Managing a Team of **5+** Developers
+- 🤝 Managing a Team of **10+** Developers
 
 ---
 
