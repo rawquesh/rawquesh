@@ -1,32 +1,77 @@
 <h1 align="center">Hi 👋, I'm Rakesh K.</h1>
-<h3 align="center">Flutter, ReactJS, Dart, JavaScript, Wordpress/Woocommerce, NodeJS/ExpressJS || Firebase, Firestore, MongoDB, Material UI, AWS, GCP, etc</h3>
+<h3 align="center">Full-Stack Developer | Project Manager | Agency Leader</h3>
 
-<p align="left"> <a href="https://twitter.com/rawquesh" target="blank"><img src="https://img.shields.io/twitter/follow/rawquesh?logo=twitter&style=for-the-badge" alt="rawquesh" /></a> </p>
+<br>
 
-- 🔭 My recent open-source Flutter App [Demo](https://play.google.com/store/apps/details?id=com.memebaaz.MemeBaaz) || [Repo](https://github.com/rawquesh/memebaaz)
-
-- 🌱 I’m currently learning **NextJS, Tailwind CSS etc**
-
-- 👨‍💻 Checkout my Portfolio to read more about me [https://rawquesh.github.io/](https://rawquesh.github.io/)
-
-- 💬 Ask me about **Flutter, ReactJS, Dart, JavaScript, Wordpress/Woocommerce, NodeJS**
-
-- 📫 How to reach me **rakesh@bluetouch.dev**
-
-- 📄 My CV [https://rawquesh.github.io/img/cv.pdf](https://rawquesh.github.io/img/cv.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rawquesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rawquesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rawquesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawquesh" height="30" width="40" /></a>
-<a href="https://instagram.com/rawquesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawquesh" height="30" width="40" /></a>
+<p align="center">
+  I'm a full-stack developer and project manager with over 6 years of experience, specializing in turning complex ideas into successful, scalable web and mobile applications. I lead a talented team to deliver high-quality solutions using technologies like Flutter, React, and Node.js.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/rawquesh" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?logo=upwork" alt="Upwork Top Rated">
+  </a>
+  <a href="https://www.linkedin.com/in/rawquesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://rawquesh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=github" alt="Portfolio">
+  </a>
+    <a href="mailto:rakesh@bluetouch.dev">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rawquesh&show_icons=true&locale=en&layout=compact" alt="rawquesh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawquesh&show_icons=true&locale=en" alt="rawquesh" /></p>
+### 📊 My Upwork Snapshot
+As a **Top-Rated** Freelancer and Agency Owner, I've built a strong reputation for delivering results.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawquesh&" alt="rawquesh" /></p>
+- 🏆 **$100k+** Total Earnings
+- 📈 **100** Total Jobs Completed
+- ⏰ **2,500+** Hours Logged
+- 🤝 Managing a Team of **5+** Developers
+
+---
+
+### 🚀 What I Do
+
+- **📱 Custom Mobile & Web Development:** Building high-performance applications from scratch using Flutter, React, Node.js, and more.
+- **🔄 WooCommerce to App Conversion:** Seamlessly transforming e-commerce websites into native mobile experiences.
+- **💡 Idea to MVP:** Guiding startups and businesses from concept to a market-ready product.
+- **🛠️ End-to-End Project Management:** Overseeing the entire development lifecycle using Agile methodologies to ensure on-time delivery.
+
+---
+
+### 💻 My Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Mobile Development** | `Flutter`, `FlutterFlow`, `React Native`, `iOS`, `Android` |
+| **Frontend** | `ReactJS`, `HTML/CSS`, `JavaScript/TypeScript`, `Vue.js`, `Angular` |
+| **Backend** | `NodeJS (Express)`, `.NET`, `Django`, `Flask`, `NestJS`, `Laravel` |
+| **Databases** | `Firebase`, `PostgreSQL`, `MongoDB`, `MySQL`, `Redis`, `SQLite` |
+| **DevOps** | `AWS`, `GCP`, `Azure`, `Docker`, `Kubernetes`, `DigitalOcean`, `Heroku` |
+| **Project Management** | `Jira`, `Trello`, `Asana`, `Slack`, `Github`, `Azure DevOps` |
+| **APIs & Integrations**| `Stripe`, `PayPal`, `Razorpay`, `REST APIs`, `GraphQL`, `Twilio`, `Google Maps` |
+| **Design & Testing** | `Figma`, `Adobe XD`, `Jest`, `Cypress`, `Selenium`, `Manual & Automated QA` |
+
+---
+
+### ✨ Featured Projects
+
+- **Job & News Platform:** Developed a comprehensive portal for job seekers and news readers.
+- **AI Image Generation Tool:** Created an intelligent tool for generating images using AI algorithms.
+- **E-commerce App with Admin Dashboard:** Built a complete online store with powerful backend management features.
+- **Salon Booking & Management App:** Designed a dedicated application for salon appointments and client management.
+- **Custom Point-of-Sale (POS) System:** Engineered a POS to streamline transactions and reporting for retail businesses.
+
+---
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawquesh&show_icons=true&theme=radical&rank_icon=github" alt="Rakesh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawquesh&theme=radical" alt="Rakesh's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawquesh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
