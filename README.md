@@ -50,6 +50,12 @@ A selection of public repositories I've built and shared. I prefer practical pro
 
 - **[Personal Portfolio](https://github.com/rawquesh/rawquesh.github.io)** [![GitHub stars](https://img.shields.io/github/stars/rawquesh/rawquesh.github.io?style=flat&color=gold)](https://github.com/rawquesh/rawquesh.github.io) — My open-source portfolio website, built with HTML, CSS, and JavaScript. **`HTML` `CSS` `JavaScript`** · [View website](https://rawquesh.github.io/)
 
+### 🛒 Paid products on CodeCanyon
+
+- **[Snory](https://codecanyon.net/item/snory-premium-bedtime-stories-flutter-app-offline-audio-subscriptions-react-admin-panel/62595324)** — Premium bedtime stories Flutter app with offline audio listening, subscriber-only content, and subscriptions via RevenueCat, plus a React admin panel to manage stories, categories, and users. **`Flutter` `Firebase` `React` `RevenueCat`**
+
+- **[SpotShare](https://codecanyon.net/item/spotshare-nearby-parking-spot-finder-flutter-app-firebase-nextjs-admin-panel-multilang/62205467)** — Community-driven nearby parking spot finder with a live map of user-shared spots, rewards for reporting, trust scoring, and AI availability predictions, plus a Next.js admin panel. Multilingual. **`Flutter` `Firebase` `Next.js` `Mapbox`**
+
 **→ [Explore all my public repositories](https://github.com/rawquesh?tab=repositories)**
 
 ---
